@@ -1,5 +1,5 @@
 # VJ6-Strukture-podataka
-Vježba 6
+Vjezba 6
 
 Napisati program koji iz teksta čita riječ po riječ i radi riječnik svih riječi koje se nalaze u tekstu.
 Riječnik se izrađuje na način da se u vezanu listu zapisuje samo prvo slovo riječi;
